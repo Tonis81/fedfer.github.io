@@ -1,20 +1,16 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            Federico Ferrari
 canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Federico Ferrari
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
+  bio:            "PhD student"
+  email:          federico.ferrari@duke.edu
+  github:         fedfer
+  instagram:      jonnyfelpo
   disqus:         balzac
-  location:       "Buffalo, NY"
+  location:       "Durham, NC"
   # Plug in your disqus shortname!
 
 tools:
