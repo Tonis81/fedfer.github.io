@@ -1,5 +1,5 @@
 ---
-layout: post-light-feature
+layout: post-light-feature2
 title: "Recent Posts"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
