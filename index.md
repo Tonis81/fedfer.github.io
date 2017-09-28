@@ -3,7 +3,7 @@ layout: post-light-feature
 title: "Recent Posts"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: Tenerife3.png
+  feature: Tenerife1.png
 ---
 
 ## About
