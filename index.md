@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
-tags: [Jekyll, theme, responsive, blog, template]
 title: "PhD student"
+tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: Tenerife1.jpg
 ---
