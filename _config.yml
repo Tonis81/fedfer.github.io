@@ -24,6 +24,8 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: CV
+    url: /FerrariCV
   - title: Github
     url: https://github.com/fedfer
     external: true
