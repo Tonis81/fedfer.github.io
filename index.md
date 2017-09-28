@@ -3,7 +3,7 @@ layout: post-light-feature
 title: "PhD student"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: tenerifesolo.jpg
+  feature: tenerifesolo2.png
 ---
 
 ## About
