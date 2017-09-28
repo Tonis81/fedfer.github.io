@@ -26,6 +26,7 @@ opengraph:
 links:
   - title: CV
     url: /FerrariCV.pdf
+    external: true
   - title: Github
     url: https://github.com/fedfer
     external: true
