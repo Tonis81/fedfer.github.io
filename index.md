@@ -15,4 +15,4 @@ My research interests are wide and not well-defined yet. They include Bayesian N
 
 
 ## TA and Tutoring
-I will work as a TA in the 2018 Spring semester and I cannot wait to do it. In the meanwhile, I am available as tutor for every statistical course under 400 (except 340) at Duke University. If you need any information, don't hesitate to contact me!
+I will work as a TA in the 2019 Spring semester and I cannot wait to do it. In the meanwhile, I am available as tutor for every statistical course under 400 (except 340) at Duke University. If you need any information, don't hesitate to contact me!
