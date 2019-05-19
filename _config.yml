@@ -25,7 +25,7 @@ opengraph:
 # For external links add external: true
 links:
   - title: CV
-    url: /CV_3.pdf
+    url: https://www.overleaf.com/project/5ce194ba97a00c219ac1dc70/output/output.pdf?clsiserverid=clsi-pre-emp-274x
     external: true
   - title: Github
     url: https://github.com/fedfer
