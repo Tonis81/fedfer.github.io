@@ -11,8 +11,11 @@ I'm a second year PhD student in Statistics at [Duke University](http://stat.duk
 
 
 ## Interests and Research  
-My research interests are wide and not well-defined yet. They include Bayesian Nonparametric, Bayesian modelling and Sports analytics. For my master thesis I worked on a Bayesian nonparametric approach to Species Discovery with my supervisor [Stefano Favaro](http://www.carloalberto.org/people/faculty/fellows/favaro/) and [Federico Camerlenghi](http://www-dimat.unipv.it/~camerlenghi/). We are currently trying to apply Multi-armed bandits to iterative experimental design in multi-tissue single-cell RNA-seq data together with [Bianca Dumitrascu](https://b2du.github.io/). I'm also working on estimation of statistical interactions in the small _n_ large _p_ paradigm together with my supervisor [David B. Dunson](https://www2.stat.duke.edu/~dunson/). This is my [poster](/poster_federico.pdf) at ISBA 2018!
+My research interests include Bayesian Modeling, Bayesian Nonparametric, Bayesian Factor regression, Hierarchical Models, Scalable Algorithms for Bayesian Models, Spatial models. For my master thesis I worked on a Bayesian nonparametric approach to Species Discovery with my supervisor [Stefano Favaro](http://www.carloalberto.org/people/faculty/fellows/favaro/) and [Federico Camerlenghi](http://www-dimat.unipv.it/~camerlenghi/). We are currently trying to apply Multi-armed bandits to iterative experimental design in multi-tissue single-cell RNA-seq data together with [Bianca Dumitrascu](https://b2du.github.io/). I'm also working on estimation of statistical interactions in the small n large p paradigm together with my supervisor [David B. Dunson](https://www2.stat.duke.edu/~dunson/). This is my [poster](/poster_federico.pdf) at ISBA 2018!
 
 
 ## TA and Tutoring
-I will work as a TA in the 2019 Spring semester and I cannot wait to do it. In the meanwhile, I am available as tutor for every statistical course under 400 (except 340) at Duke University. If you need any information, don't hesitate to contact me! 
+* STA101: Data Analysis and Statistical Inference (Summer 2019)
+* STA523L: Statistical Programming (Fall 2019)
+
+I am also available as tutor for every statistical course under 400 (except 340) and some graduate courses at Duke University. If you need any information, don't hesitate to contact me! 
