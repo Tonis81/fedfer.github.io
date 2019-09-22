@@ -21,7 +21,7 @@ For my master thesis I worked on a Bayesian nonparametric approach to Species Di
 
 ### Pubblications and Preprints
 
-* **Ferrari, F.** \ * \, Dunson, D. B. (2019). *Bayesian Factor Analysis for Inference on Interactions.* [arXiv preprint arXiv:1904.11603](arXiv preprint arXiv:1904.11603).
+* **Ferrari, F.**  * , Dunson, D. B. (2019). *Bayesian Factor Analysis for Inference on Interactions.* [arXiv preprint arXiv:1904.11603](arXiv preprint arXiv:1904.11603).
 * Camerlenghi, F., Dumitrascu, B., **Ferrari, F.**, Engelhardt, B. E., Favaro, S. (2019) *Nonparametric Bayesian Multi-Armed Bandits for Single Cell Experiment Design *. _submitted_
 
 ### Working Papers
