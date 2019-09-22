@@ -21,14 +21,14 @@ For my master thesis I worked on a Bayesian nonparametric approach to Species Di
 
 ### Pubblications and Preprints
 
-* **Ferrari, F.**  * , Dunson, D. B. (2019). *Bayesian Factor Analysis for Inference on Interactions.* [arXiv preprint arXiv:1904.11603](arXiv preprint arXiv:1904.11603).
-* Camerlenghi, F.* , Dumitrascu, B.*, **Ferrari, F.** * , Engelhardt, B. E., Favaro, S. (2019) *Nonparametric Bayesian Multi-Armed Bandits for Single Cell Experiment Design *. _submitted_
+* **Ferrari, F.**  * , Dunson, D. B. (2019). Bayesian Factor Analysis for Inference on Interactions. [arXiv preprint arXiv:1904.11603](arXiv preprint arXiv:1904.11603).
+* Camerlenghi, F.* , Dumitrascu, B.*, **Ferrari, F.** * , Engelhardt, B. E., Favaro, S. (2019) Nonparametric Bayesian Multi-Armed Bandits for Single Cell Experiment Design . submitted
 
 ### Working Papers
 
-* **Ferrari, F.** * , Dunson, D. B. *Identifying main effects and interactions among exposures using Gaussian processes.*
-* **Ferrari, F.** *, Wong, U. *P-nDCG: a new learning-to-rank metric for large lists of imbalanced binary data.*
-* Poworoznek, E.*, **Ferrari, F.**, Dunson, D. B. *Bayesian semi-parametric factor modelling with the factoR package for R.*
+* **Ferrari, F.** * , Dunson, D. B. Identifying main effects and interactions among exposures using Gaussian processes.
+* **Ferrari, F.** *, Wong, U. P-nDCG: a new learning-to-rank metric for large lists of imbalanced binary data.
+* Poworoznek, E.*, **Ferrari, F.**, Dunson, D. B. Bayesian semi-parametric factor modelling with the factoR package for R.
 
 ## TA and Tutoring
 * STA101: Data Analysis and Statistical Inference (Summer 2019)
