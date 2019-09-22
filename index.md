@@ -9,26 +9,26 @@ image:
 ## About
 I'm a third year PhD candidate in Statistics at [Duke University](http://stat.duke.edu), North Carolina. Previously, I obtained a Bachelor degree in ["Economics and Finance"](http://corsi.unibo.it/1cycle/EconomicsFinance/Pages/default.aspx) at Università degli studi di Bologna (the oldest in the world!). I continued my studies in Turin where I received a master's degree in ["Stochastics and Data Science"](http://www.master-sds.unito.it/do/home.pl) at the University of Turin and in parallel a master in "Statistics and Applied Mathematics" at [Collegio Carlo Alberto](http://carloalberto.org). In the meanwhile, I did an exchange period at the University of Lund, Sweden. 
 
-Free time climbing
+In my free time climbing [map](https://github.com/fedfer/climbing/climbing.html)
 
 
 ## Interests and Research  
 My research interests include Bayesian Modeling, Bayesian Nonparametric, Bayesian Factor regression, Hierarchical Models, Scalable Algorithms for Bayesian Models, Spatial models.
 
-I'm also working on estimation of statistical interactions in the small n large p paradigm together with my supervisor [David B. Dunson](https://www2.stat.duke.edu/~dunson/). This is my [poster](/poster_federico.pdf) at ISBA 2018!
+I'm also working on estimation of statistical interactions in the small n large p paradigm together with my supervisor [David B. Dunson](https://www2.stat.duke.edu/~dunson/).
 
 For my master thesis I worked on a Bayesian nonparametric approach to Species Discovery with my supervisor [Stefano Favaro](http://www.carloalberto.org/people/faculty/fellows/favaro/) and [Federico Camerlenghi](http://www-dimat.unipv.it/~camerlenghi/). We are currently trying to apply Multi-armed bandits to iterative experimental design in multi-tissue single-cell RNA-seq data together with [Bianca Dumitrascu](https://b2du.github.io/). 
 
 ### Pubblications and Preprints
 
 * **Ferrari, F.**  * , Dunson, D. B. (2019). *Bayesian Factor Analysis for Inference on Interactions.* [arXiv preprint arXiv:1904.11603](arXiv preprint arXiv:1904.11603).
-* Camerlenghi, F., Dumitrascu, B., **Ferrari, F.**, Engelhardt, B. E., Favaro, S. (2019) *Nonparametric Bayesian Multi-Armed Bandits for Single Cell Experiment Design *. _submitted_
+* Camerlenghi, F.* , Dumitrascu, B.*, **Ferrari, F.** * , Engelhardt, B. E., Favaro, S. (2019) *Nonparametric Bayesian Multi-Armed Bandits for Single Cell Experiment Design *. _submitted_
 
 ### Working Papers
 
-
-
-
+* **Ferrari, F.** * , Dunson, D. B. *Identifying main effects and interactions among exposures using Gaussian processes.*
+* **Ferrari, F.** *, Wong, U. *P-nDCG: a new learning-to-rank metric for large lists of imbalanced binary data.*
+* Poworoznek, E.*, **Ferrari, F.**, Dunson, D. B. *Bayesian semi-parametric factor modelling with the factoR package for R.*
 
 ## TA and Tutoring
 * STA101: Data Analysis and Statistical Inference (Summer 2019)
