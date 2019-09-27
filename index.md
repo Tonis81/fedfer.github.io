@@ -9,7 +9,7 @@ image:
 ## About
 I'm a third year PhD candidate in Statistics at [Duke University](http://stat.duke.edu), North Carolina. Previously, I obtained a Bachelor degree in ["Economics and Finance"](http://corsi.unibo.it/1cycle/EconomicsFinance/Pages/default.aspx) at Università degli studi di Bologna (the oldest in the world!). I continued my studies in Turin where I received a master's degree in ["Stochastics and Data Science"](http://www.master-sds.unito.it/do/home.pl) at the University of Turin and in parallel a master in "Statistics and Applied Mathematics" at [Collegio Carlo Alberto](http://carloalberto.org). In the meanwhile, I did an exchange period at the University of Lund, Sweden. 
 
-I really enjoy climbing. This is a map [map](https://github.com/fedfer/climbing/blob/master/climbing.html) created with the R package leaflet of the places and routes that I climbed! The code can be found in this [Github repo].(https://github.com/fedfer/climbing/)
+In my free time, I really enjoy climbing. This is a map [map](https://github.com/fedfer/climbing/blob/master/climbing.html) created with the R package leaflet of the places and routes that I climbed! The code can be found in this [Github repo](https://github.com/fedfer/climbing/).
 
 
 ## Interests and Research  
