@@ -22,17 +22,18 @@ For my master thesis I worked on a nonparametric Multi-Armed Bandits for Species
 
 ### Pubblications and Preprints
 
-* **Ferrari, F.**  * , Dunson, D. B. (2019). Bayesian Factor Analysis for Inference on Interactions. [arXiv preprint arXiv:1904.11603](arXiv preprint arXiv:1904.11603).
-* Camerlenghi, F.* , Dumitrascu, B.*, **Ferrari, F.** * , Engelhardt, B. E., Favaro, S. (2019) Nonparametric Bayesian Multi-Armed Bandits for Single Cell Experiment Design . submitted
+* **Ferrari, F.**  * , Dunson, D. B. Bayesian Factor Analysis for Inference on Interactions. Journal of the American Statistical Association just-accepted (2020): 1-29. [link](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2020.1745813?casa_token=hUnrXw9q2FoAAAAA%3AvIAKTzuZFmhsLkPFUkLo3xLnrrPVos5dRoAA38tcW_PaPwhTa1monYlYKpx7RwdDVrnHtBfxJRhJCQ#.XphjYC2ZNQI). 
+* Camerlenghi, F.* , Dumitrascu, B.*, **Ferrari, F.** * , Engelhardt, B. E., Favaro, S. (2020+) Nonparametric Bayesian Multi-Armed Bandits for Single Cell Experiment Design. submitted. [ArXiv](https://arxiv.org/abs/1911.01910).
+* **Ferrari, F.** * , Dunson, D. B. (2020+) Identifying main effects and interactions among exposures using Gaussian processes. submitted. [ArXiv](https://arxiv.org/abs/1910.05355). [Supplementary Materials](https://nbviewer.jupyter.org/github/fedfer/fedfer.github.io/blob/master/gp_AoAS_supplementary.pdf).
+
 
 ### Working Papers
 
-* **Ferrari, F.** * , Dunson, D. B. Identifying main effects and interactions among exposures using Gaussian processes.
 * **Ferrari, F.** *, Wong, U. P-nDCG: a new learning-to-rank metric for large lists of imbalanced binary data.
-* Poworoznek, E.*, **Ferrari, F.**, Dunson, D. B. Bayesian semi-parametric factor modelling with the factoR package for R.
+* Poworoznek, E.*, **Ferrari, F.**, Dunson, D. B. Bayesian semi-parametric factor modelling with the infinite package for R. [CRAN](https://cran.r-project.org/web/packages/infinitefactor/index.html) 
 
-## TA and Tutoring
+## Teaching Assistant
+
 * STA101: Data Analysis and Statistical Inference (Summer 2019)
 * STA523L: Statistical Programming (Fall 2019)
-
-I am also available as tutor for every statistical course under 400 (except 340) and some graduate courses at Duke University. If you need any information, don't hesitate to contact me! 
+* STA723: Case Studies (Fall 2020)
