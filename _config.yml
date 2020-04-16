@@ -25,7 +25,7 @@ opengraph:
 # For external links add external: true
 links:
   - title: CV
-    url: CV.pdf
+    url: /CV.pdf
     external: false
   - title: Github
     url: https://github.com/fedfer
