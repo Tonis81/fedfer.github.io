@@ -28,12 +28,13 @@ For my master thesis I worked on a nonparametric Multi-Armed Bandits for Species
 
 
 ### Working Papers
-
-* **Ferrari, F.** *, Wong, U. P-nDCG: a new learning-to-rank metric for large lists of imbalanced binary data.
 * Poworoznek, E.*, **Ferrari, F.**, Dunson, D. B. Bayesian semi-parametric factor modelling with the infinite package for R. [CRAN](https://cran.r-project.org/web/packages/infinitefactor/index.html) 
+* Jiang M. *, **Ferrari, F.**, and Dunson D. B. Structural Equation Models for Environmental Health Outcomes.
+* **Ferrari, F.** *, Engel S, Dunson D and Herring A. Bayesian Factor Copula for Inference on Dose-Response Curves
+* **Ferrari, F.** *, Wong, U. P-nDCG: a new learning-to-rank metric for large lists of imbalanced binary data.
 
 ## Teaching Assistant
 
-* STA101: Data Analysis and Statistical Inference (Summer 2019)
+* STA723: Case Studies (Spring 2020)
 * STA523L: Statistical Programming (Fall 2019)
-* STA723: Case Studies (Fall 2020)
+* STA101: Data Analysis and Statistical Inference (Summer 2019)
