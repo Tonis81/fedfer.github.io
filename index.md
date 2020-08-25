@@ -9,16 +9,16 @@ image:
 ## About
 I'm a third year PhD candidate in Statistics at [Duke University](http://stat.duke.edu), North Carolina. Previously, I obtained a Bachelor degree in ["Economics and Finance"](http://corsi.unibo.it/1cycle/EconomicsFinance/Pages/default.aspx) at Università degli studi di Bologna (the oldest in the world!). I continued my studies in Turin where I received a master's degree in ["Stochastics and Data Science"](http://www.master-sds.unito.it/do/home.pl) at the University of Turin and in parallel a master in "Statistics and Applied Mathematics" at [Collegio Carlo Alberto](http://carloalberto.org). In the meanwhile, I did an exchange period at the University of Lund, Sweden. 
 
-In my free time, I really enjoy climbing. This is a [map](https://fedfer.shinyapps.io/climbing/) created with the R package leaflet of the places and routes that I climbed! The code can be found in this [Github repo](https://github.com/fedfer/climbing/).
+In my free time, I really enjoy climbing. This is a [map](https://fedfer.shinyapps.io/climbing/) created with the R package leaflet of the places and routes that I climbed! The code can be found in this [Github repo](https://github.com/fedfer/climbing/). Here's my Mountain Project [profile](https://www.mountainproject.com/user/200757688/federico-ferrari)
 
 
 ## Interests and Research  
 
-My research interests include Bayesian Modeling, Bayesian Nonparametric, Bayesian Factor regression, Hierarchical Models, Scalable Algorithms for Bayesian Models, Spatial models.
+My research interests include Bayesian Modeling, Bayesian Nonparametric, Bayesian Factor regression, Hierarchical Models, Scalable Algorithms for Bayesian Models, Spatial Statistics, Conformal Inference. This is my Google Scholar [profile](https://scholar.google.it/citations?user=-TFoooMAAAAJ&hl=en)! 
 
-I am currently working on building models for environmental epidemiology with my PhD supervisor [David B. Dunson](https://www2.stat.duke.edu/~dunson/). In particular, we are interested in modelling complex-dose response curves for chemical exposures. This application presents several statistical challenges such as highly correlated covariates and often the number of covariates exceeds the number of observations.
+I am currently develping models for environmental epidemiology applications with my PhD supervisor [David B. Dunson](https://www2.stat.duke.edu/~dunson/). In particular, we are interested in modelling complex-dose response curves for chemical exposures. Several statistical challenges include highly correlated covariates and large p small n datasets.
 
-For my master thesis I worked on a nonparametric Multi-Armed Bandits for Species Discovery with my Master supervisor [Stefano Favaro](http://www.carloalberto.org/people/faculty/fellows/favaro/) and [Federico Camerlenghi](http://www-dimat.unipv.it/~camerlenghi/). We are currently trying to apply Multi-armed bandits to iterative experimental design in multi-tissue single-cell RNA-seq data together with [Bianca Dumitrascu](https://b2du.github.io/). 
+For my master thesis I worked on a nonparametric Multi-Armed Bandits for Species Discovery with my Master supervisor [Stefano Favaro](http://www.carloalberto.org/people/faculty/fellows/favaro/) and [Federico Camerlenghi](http://www-dimat.unipv.it/~camerlenghi/). We applied Multi-armed bandits to iterative experimental design in multi-tissue single-cell RNA-seq data together with [Bianca Dumitrascu](https://b2du.github.io/) and [Barbara Engelhardt](https://www.cs.princeton.edu/people/profile/bee). 
 
 ### Pubblications and Preprints
 
@@ -36,5 +36,5 @@ For my master thesis I worked on a nonparametric Multi-Armed Bandits for Species
 ## Teaching Assistant
 
 * STA723: Case Studies (Spring 2020)
-* STA523L: Statistical Programming (Fall 2019)
+* STA523L: Statistical Programming (Fall 2019 and Fall 2020)
 * STA101: Data Analysis and Statistical Inference (Summer 2019)
